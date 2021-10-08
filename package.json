@@ -1,0 +1,19 @@
+{
+  "name": "memorygame",
+  "version": "1.0.0",
+  "description": "sitio web con html, css y js. realizado con nodejs y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvilche1/memoryGame.git"
+  },
+  "author": "victor v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvilche1/memoryGame/issues"
+  },
+  "homepage": "https://github.com/vvilche1/memoryGame#readme"
+}
